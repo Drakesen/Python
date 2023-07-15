@@ -1,3 +1,5 @@
+print("Hello my friend!")
+
 pass_true = "password"
 ps = ""
 while ps != pass_true:
