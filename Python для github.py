@@ -3,7 +3,6 @@ print("Hello my friend!")
 # Треугольник Паскаля
 N = 7
 P = []
-
 for i in range(N):
     row = [1] * (i+1)
     for j in range(i+1):
